@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+     height: 100%;
+     width: 100%;
+}
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    position: absolute; 
+    left: 30%;
+    top: 33%;
+    
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+   
+}
+#box3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(16, 202, 149);
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    
+}
