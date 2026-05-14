@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+     height: 100%;
+     width: 100%;
+}
+#parent{
+    height: 100%;
+    width: 100%;
+    background-color: #196289;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+    align-content: center;
+  
+}
+.child1{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    border: 2px solid white;
+   
+
+}
+.child2{
+    height: 200px;
+    width: 200px;
+    background-color: #0e1990;
+    border: 2px solid white;
+    
+}
+.child3{
+    height: 200px;
+    width: 200px;
+    background-color: #0fb785;
+    border: 2px solid white;
+    
+}
